@@ -47,7 +47,7 @@
         "clean-webpack-plugin": "4.0.0",
         "copy-webpack-plugin": "^11.0.0",
         "css-loader": "^6.8.1",
-        "eslint": "^8.43.0",
+        "eslint": "^9.15.0",
         "file-loader": "^6.2.0",
         "html-loader": "^4.2.0",
         "mini-css-extract-plugin": "^2.7.6",
