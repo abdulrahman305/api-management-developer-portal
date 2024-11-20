@@ -106,7 +106,7 @@
         "lunr": "^2.3.9",
         "mime": "^3.0.0",
         "moment": "^2.29.4",
-        "monaco-editor": "^0.29.1",
+        "monaco-editor": "^0.52.0",
         "msal": "^1.4.18",
         "nuka-carousel": "^7.0.0",
         "prettier": "^2.8.8",
