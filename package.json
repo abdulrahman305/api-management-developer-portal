@@ -111,7 +111,7 @@
         "graphql-language-service": "3.1.6",
         "html-truncate": "1.2.2",
         "idb-keyval": "^6.2.1",
-        "js-beautify": "^1.14.9",
+        "js-beautify": "^1.14.10",
         "knockout": "^3.5.1",
         "knockout-mapping": "^2.6.0",
         "knockout.validation": "^2.0.4",
